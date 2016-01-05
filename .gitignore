@@ -1,0 +1,12 @@
+*.xcuserstate
+*.xccheckout
+icu-lib-ios/icu-lib-ios.xcodeproj/xcuserdata
+icu-lib-ios/build
+*.a
+*.o
+*.orig
+*.hmap
+*.LinkFileList
+*.xcworkspacedata
+*.xcsettings
+*.xcscmblueprint
